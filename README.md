@@ -1,7 +1,7 @@
 ### Hi there 👋🏾, I am Rodgers Ouma!
 ###### *Software Engineer*
 
-I am a full stack dev, primarily working on backend software architecture, design and development. I also moonlight on frontend development, both on mobile and web. I am currently a Software Engineer at ![Twiga Foods](https://twiga.com/), working on last mile commerce and delivery software that powers thousands of transactions daily.
+I am a full stack dev, primarily working on backend software architecture, design and development. I also moonlight on frontend development, both on mobile and web. I am currently a Software Engineer at [Twiga Foods](https://twiga.com/), working on last mile ecommerce and delivery software that powers thousands of transactions daily.
 
 ### My Tools
 * Frontend Web: HTML, CSS, SASS, Vanilla JavaScript, Angular, Vue, Typescript
