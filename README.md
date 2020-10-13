@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Rodgers</h1>
-<h3 align="center">I am a full stack dev, primarily working on backend software architecture, design and development. I also moonlight on frontend development, both on mobile and web. I am currently a Software Engineer at Twiga Foods, working on last mile e-commerce and delivery software that powers thousands of transactions daily.</h3>
+<h3 align="center">I am a full stack dev, primarily working on backend software architecture, design and development. I also moonlight on frontend development, both on mobile and web. I am currently a Software Engineer at <a href="https://twiga.com">Twiga Foods</a>, working on last mile e-commerce and delivery software that powers thousands of transactions daily.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardenn&label=Profile%20views&color=0e75b6&style=flat" alt="ardenn" /> </p>
 
