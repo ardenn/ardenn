@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mc_alila" target="blank"><img src="https://img.shields.io/twitter/follow/mc_alila?logo=twitter&style=for-the-badge" alt="mc_alila" /></a> </p>
 
-- 🔭 I’m currently working on [bricks](https://github.com/ardenn/bricks)
+- 🔭 I’m currently working on [feedr](https://github.com/ardenn/feedr) - A feedr reader telegram bot
 
 - 🌱 I’m currently learning **Go, Linux System Programming, Data Structures & Algorithms**
 
